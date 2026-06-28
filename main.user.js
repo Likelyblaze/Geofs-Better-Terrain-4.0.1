@@ -1,15 +1,16 @@
 // ==UserScript==
-// @name                 Better Terrain for GeoFs 4.0
-// @namespace            http://tampermonkey.net/
-// @version              4.0.1
-// @description          Better Imagery for GeoFS 4.0
-// @author               Likelyblaze
-// @match                https://www.geo-fs.com/geofs.php?v=*
-// @match                https://beta.geo-fs.com/*
-// @grant                none
-// @updateURL            https://raw.githubusercontent.com/Likelyblaze/Geofs-Better-Terrain-4.0.1/main/main.user.js
-// @downloadURL          https://raw.githubusercontent.com/Likelyblaze/Geofs-Better-Terrain-4.0.1/main/main.user.js
+// @name         Better Terrain for GeoFs 4.0
+// @namespace    http://tampermonkey.net/
+// @version      4.0.1
+// @description  Better Imagery for GeoFS 4.0
+// @author       Likelyblaze
+// @match        https://www.geo-fs.com/geofs.php?v=*
+// @match        https://beta.geo-fs.com/*
+// @grant        none
+// @downloadURL  https://raw.githubusercontent.com/Likelyblaze/Geofs-Better-Terrain-4.0.1/main/main.user.js
+// @updateURL    https://raw.githubusercontent.com/Likelyblaze/Geofs-Better-Terrain-4.0.1/main/main.user.js
 // ==/UserScript==
+
 (function() {
     "use strict";
 
